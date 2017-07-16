@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [ {
+                   "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [-6.2038901390978, 106.853188059745586]
+                    },
+                    "properties": {
+                        "title": "Mapbox jakarta",
+                        "icon": "monument"
+                    }
+                }, {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [-122.414, 37.776]
+                    },
+                    "properties": {
+                        "title": "Mapbox bali",
+                        "icon": "harbor"
+                    }
+                }
+    ]
+}
